@@ -12,7 +12,7 @@ export default function App() {
 
       <h1>Dark - Streaming on Netflix</h1>
 
-      <img src="../src/assets/Dark-Movie-Main-Image.png" alt="Main image"/>
+      <img src="/Dark-Movie-Main-Image.png" alt="Main image"/>
 
       <h2>Overview</h2>
 
